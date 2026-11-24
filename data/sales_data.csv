@@ -371,3 +371,9 @@ Date,Year,Month_No,Month,Region,Category,Units_Sold,Avg_Price,Revenue
 2026-12-01,2026,12,December,South,Apparel,1088,1712.0,1862656
 2026-12-01,2026,12,December,West,Grocery,3083,369.0,1137627
 2026-12-01,2026,12,December,South,Grocery,2802,369.0,1033938
+2027-01-01,2027,1,January,West,Electronics,513,29462.0,15114006
+2027-01-01,2027,1,January,South,Electronics,385,29289.0,11276265
+2027-01-01,2027,1,January,West,Apparel,969,1707.0,1654083
+2027-01-01,2027,1,January,South,Apparel,869,1710.0,1485990
+2027-01-01,2027,1,January,West,Grocery,3069,375.0,1150875
+2027-01-01,2027,1,January,South,Grocery,2532,365.0,924180
