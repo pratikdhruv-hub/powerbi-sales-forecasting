@@ -359,3 +359,15 @@ Date,Year,Month_No,Month,Region,Category,Units_Sold,Avg_Price,Revenue
 2026-10-01,2026,10,October,West,Apparel,1536,1694.0,2601984
 2026-10-01,2026,10,October,West,Electronics,719,29027.0,20870413
 2026-10-01,2026,10,October,West,Grocery,3482,371.0,1291822
+2026-11-01,2026,11,November,West,Electronics,739,29221.0,21594319
+2026-11-01,2026,11,November,South,Electronics,573,28682.0,16434786
+2026-11-01,2026,11,November,West,Apparel,1448,1694.0,2452912
+2026-11-01,2026,11,November,South,Apparel,1138,1706.0,1941428
+2026-11-01,2026,11,November,West,Grocery,3406,361.0,1229566
+2026-11-01,2026,11,November,South,Grocery,2811,364.0,1023204
+2026-12-01,2026,12,December,West,Electronics,615,29072.0,17879280
+2026-12-01,2026,12,December,South,Electronics,482,28670.0,13818940
+2026-12-01,2026,12,December,West,Apparel,1322,1706.0,2255332
+2026-12-01,2026,12,December,South,Apparel,1088,1712.0,1862656
+2026-12-01,2026,12,December,West,Grocery,3083,369.0,1137627
+2026-12-01,2026,12,December,South,Grocery,2802,369.0,1033938
